@@ -1,0 +1,12 @@
+
+.idea/
+__pycache__/
+*.pyc
+images/points.txt
+images/MOPS_1.jpg
+images/MOPS_2.jpg
+images/MOPS_Match.jpg
+images/SIFT_1.jpg
+images/SIFT_2.jpg
+images/SIFT_Match.jpg
+images/result.jpg

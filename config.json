@@ -1,0 +1,20 @@
+{
+	"mops": {
+		"use_anms": true,
+		"anms_robustness": 0.9,
+		"corner_ratio": 0.40,
+		"kp_radius": 10,
+		"kp_thickness": 1,
+		"kp_color": [0, 0, 255]
+	},
+	"levels": 5,
+	"points": 400,
+	"normalize_points": false,
+	"sort_points": false,
+	"matcher": {
+		"algorithm": 0,
+		"trees": 5,
+		"ratio": 0.60,
+		"checks": 100
+	}
+}
